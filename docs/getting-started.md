@@ -3,16 +3,16 @@ template: overrides/main.html
 title: Getting started
 ---
 
-# Getting started
+# Probando
 
-Material for MkDocs is a theme for [MkDocs][1], a static site generator geared
+Bla bla bla para [MkDocs][1], a static site generator geared
 towards (technical) project documentation. If you're familiar with Python, you
 can install Material for MkDocs with [`pip`][2], the Python package manager.
 If not, we recommended using [`docker`][3].
 
 In case you're running into problems, consult the [troubleshooting][4] section.
 
-  [1]: https://www.mkdocs.org
+  [1]: https://www.para.org
   [2]: #with-pip-recommended
   [3]: #with-docker
   [4]: troubleshooting.md
